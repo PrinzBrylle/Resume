@@ -486,9 +486,6 @@ section {
   border: 2px solid #1f5297;
 }
 
-/*--------------------------------------------------------------
-# Soft Skills
---------------------------------------------------------------*/
 
 /*--------------------------------------------------------------
 # Footer
@@ -509,16 +506,12 @@ section {
 }
 @media (max-width: 768px) {
   .footer {
-    margin-left: 20px;
+    margin-left: 0px;
     width: 100%;
     padding: 15px 0;
   }
 
   .copyright {
-    font-size: 1.17rem; /* Adjust the font size to be smaller for mobile */
+    font-size: 1.20rem; /* Adjust the font size to be smaller for mobile */
   }
 }
-
-
-
-
